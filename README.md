@@ -1,3 +1,5 @@
+![Build Status](https://github.com/acwar/openfeigntrain/actions/workflows/maven.yml/badge.svg)
+
 # Feign - What is it
 Es un cliente Rest declarativo. Detras de esta estupenda definicion tenemos que se trata de un consumidor de endpoints rest que se auto inyecta anotando una interfaz. La principal ventaja de esto es que nos ahorra la necesidad de andar creando implementaciones  para consumir servicios ofrecidos por otros microservicios
 ### Why not implementing myself
